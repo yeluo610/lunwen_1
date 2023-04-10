@@ -62,3 +62,4 @@ linked_list.insert_node({"position": "D", "start_time": 11, "end_time": 20})
 linked_list.insert_node({"position": "C", "start_time": 8, "end_time": 15})
 linked_list.insert_node({"position": "E", "start_time": 13, "end_time": 18})
 print(linked_list)
+# 你好呀~
